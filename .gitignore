@@ -1,0 +1,20 @@
+
+# Cypress generated files
+/cypress/videos/
+/cypress/screenshots/
+/cypress/reports/
+
+# Node modules
+node_modules/
+
+# .DS_Store files
+.DS_Store
+
+# Cypress binary cache
+.cache/
+
+# Cypress environment files
+cypress.env.json
+
+# Cypress configuration file
+cypress.json
